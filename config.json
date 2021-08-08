@@ -1,0 +1,16 @@
+{
+    "appName" : "CheckWebsiteHealth",
+    "author" : "Gareth Jones",
+    "sitesToCheck":[
+        {
+            "url":"http://www.seashellsandmagic.co.uk",
+            "shouldRedirect": "True",
+            "redirectUrl": "https://www.etsy.com/uk/shop/SeashellsAndMagic"
+        },
+        {
+            "url":"http://www.seashellsandmagic.com",
+            "shouldRedirect": "True",
+            "redirectUrl": "https://www.etsy.com/uk/shop/SeashellsAndMagic"
+        }
+    ]
+}
